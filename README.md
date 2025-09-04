@@ -22,9 +22,9 @@ Official implementation of DASH streaming system for dynamic 3DGS.<br>
 </p>
 
 ## Code Availability Notice
-At present, we are unable to release the source code publicly. We have received notice from a company asserting that portions of our work may overlap with their patents related to viewport-dependent streaming. In light of this potential legal issue, we cannot make the code or scripts openly available.
+Due to changed circumstances, we are unable to release the source code publicly.
 
-The authors, however, remain open to technical discussions and are willing to provide clarifications regarding the implementation through academic or professional exchange.
+The authors, however, remain open to technical discussions and are willing to provide clarifications regarding the implementation through academic or professional exchange.
 
 ## Citation
 ```
